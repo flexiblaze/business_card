@@ -1,0 +1,31 @@
+
+
+body{
+    margin: 20;
+    font-family: "Space Grotesk";
+}
+
+
+
+.container{
+
+    width: 400px;
+    display: flex;
+    justify-content: space-around;
+    margin: 100px 0;
+    padding: 30px;
+    text-align: center;
+    align-items: center;
+    margin: 100px auto;
+    background-color: #8ee3f5;
+    color:#1C0118;
+    border-bottom: 6px solid #3E517A;
+    border-radius: 40px;
+
+}
+
+.image{
+    width: 150px;
+    border-radius: 4px;
+}
+
